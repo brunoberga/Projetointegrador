@@ -9,10 +9,6 @@ package projetointegrador;
  *
  * @author bruno.bpereira2
  */
-public class DadosPessoa {
-    
-    public String nome = "";
-    public String email = "";
-    public Telefone TelefonePessoa;
+public class TelefoneEmpresa {
     
 }
