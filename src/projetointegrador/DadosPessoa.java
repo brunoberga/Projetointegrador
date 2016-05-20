@@ -1,18 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package projetointegrador;
 
-/**
- *
- * @author bruno.bpereira2
- */
 public class DadosPessoa {
     
-    public String nome = "";
-    public String email = "";
-    public Telefone TelefonePessoa;
+    public String nomePessoa = "";
+    public String sexoPessoa = "";
+    public String emailPessoa = "";
+    public TelefonePessoa codigoTelefonePessoa;
+    public TelefonePessoa numeroTelefonePessoa;
+    public String bairroPessoa;
     
 }

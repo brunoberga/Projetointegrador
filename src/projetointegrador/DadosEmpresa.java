@@ -3,7 +3,9 @@ package projetointegrador;
 public class DadosEmpresa {
     
     public String nomeEmpresa;
-    public String cnpj;
+    public String cnpjEmpresa;
     public String localEmpresa;
-    
+    public TelefoneEmpresa codigoTelefoneEmpresa;
+    public TelefoneEmpresa numeroTelefoneEmpresa;
+        
 }
